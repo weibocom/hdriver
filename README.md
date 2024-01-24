@@ -1,6 +1,6 @@
-# harmony_ui_test
+# HDriver
 
-harmony_ui_test包括两部分UiTestAPP和PythonClient，UiTestAPP是ArkTS语言开发的测试APP，其在鸿蒙端启动一个SocketServer，接收PythonClient的指令，执行APP启停、元素查找、点击、滑动等操作，并返回结果。这是一个鸿蒙系统UI测试的端到端测试方案，具备通用设备测试能力。UiTestAPP基于鸿蒙系统提供的“@ohos.UiTest”模块。
+HDriver包括两部分UiTestAPP和PythonClient，UiTestAPP是ArkTS语言开发的测试APP，其在鸿蒙端启动一个SocketServer，接收PythonClient的指令，执行APP启停、元素查找、点击、滑动等操作，并返回结果。这是一个鸿蒙系统UI测试的端到端测试方案，具备通用设备测试能力。UiTestAPP基于鸿蒙系统提供的“@ohos.UiTest”模块。
 
 ## 特点
  * 支持鸿蒙手机、Pad等其他设备
@@ -53,4 +53,4 @@ hdriver.find_element("text", "蓝牙", timeout_s=15)
 
 ## License
 
-harmony_ui_test is released under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+HDriver is released under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
