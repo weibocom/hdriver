@@ -15,7 +15,7 @@ harmony_ui_test包括两部分UiTestAPP和PythonClient，UiTestAPP是ArkTS语言
 1. UiTestAPP基于HarmonyOS4.1，按照鸿蒙官方说明安装SDK和DevEco-studio等必要环境后，使用evEco-studio打开UiTestAPP工程，设置dependencies和SigningConfig后，并且鸿蒙设备连接就绪，点击下图箭头所指的绿色按钮，测试APP编译安装
 
 
-![image](https://git.intra.weibo.com/honglei8/harmony_ui_test/-/raw/master/run.png?inline=false)
+![image](https://github.com/weibocom/hdriver/blob/main/run.png)
    
 
 2. PythonClient基于Python3.8，且无需安装额外的第三方包，使用举例如下：
