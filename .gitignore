@@ -1,0 +1,11 @@
+UiTestAPP/node_modules
+UiTestAPP/oh_modules
+UiTestAPP/local.properties
+UiTestAPP/.idea
+UiTestAPP/**/build
+UiTestAPP/.hvigor
+UiTestAPP/.cxx
+UiTestAPP/.clangd
+UiTestAPP/.clang-format
+UiTestAPP/.clang-tidy
+UiTestAPP**/.test
